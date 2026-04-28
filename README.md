@@ -95,7 +95,7 @@ This analysis helps identify:
 
 ## 📷 Dashboard Preview
 
-![Dashboard](Task2_Dashboard.png)
+![Dashboard](Task2_Dashboard1.png)
 
 ## 📌 Folder Structure
 
@@ -108,8 +108,8 @@ Task2/
 │   ├── ravenstack_churn_events.csv
 │
 ├── analysis.py
-├── task2_dashboard.pbix
+├── task2_dashboard1.pbix
 ├── README.md
 ├── main.csv
-├── Task2_Dashboard.png
+├── Task2_Dashboard1.png
 ```
